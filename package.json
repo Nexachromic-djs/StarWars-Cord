@@ -1,0 +1,23 @@
+{
+  "name": "starsars-cord",
+  "version": "0.0.1",
+  "description": "Image Package of iconic Star Wars GIFs'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Star Wars",
+    "Star Wars GIFs'"
+  ],
+  "author": "Nexachromic.js#9191",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "discord.gg/babyyoda"
+  },
+  "homepage": "discord.gg/babyyoda",
+  "dependencies": {
+    "discord.js": "^12.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
